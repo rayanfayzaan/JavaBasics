@@ -6,17 +6,15 @@ public class FinalKeyword {
 
 	public static void main(String[] args) {
 		
-		final int x = 10;
+		final int x  =10;
 		
 		System.out.println(x);
 		
-		x = 50;
+	
 		
-		System.out.println(x);
+	
 		
-		x = 70;
-		
-		System.out.println(x);
+
 
 	}
 
